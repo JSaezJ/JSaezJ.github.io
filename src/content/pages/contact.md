@@ -11,4 +11,4 @@ _Email:_
 Feel free to drop me an email at [201801731@alu.comillas.edu](mailto:201801731@alu.comillas.edu), and I'll do my best to respond as soon as possible.
 
 _Social Media:_
-Connect with me on social media as well. Find me on [LinkedIn](https://www.linkedin.com/jobs/view/3987031536/).or
+Connect with me on social media as well. Find me on [LinkedIn](https://www.linkedin.com/jobs/view/3987031536/).
