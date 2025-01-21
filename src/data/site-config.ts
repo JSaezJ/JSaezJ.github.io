@@ -50,18 +50,12 @@ const siteConfig: SiteConfig = {
             text: 'Home',
             href: '/'
         },
-        {
-            text: '',
-            href: '/projects'
-        },
+
         {
             text: 'Blog',
             href: '/blog'
         },
-        {
-            text: '',
-            href: '/tags'
-        }
+
     ],
     footerNavLinks: [
         {
@@ -72,10 +66,7 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: '',
-            href: '/terms'
-        },
+
         
 
     ],
