@@ -96,7 +96,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Juan's Newsletter',
+        title: 'Subscribe to Juans Newsletter',
         text: 'All posted blog will arrive at your email account.',
         formUrl: '#'
     },
