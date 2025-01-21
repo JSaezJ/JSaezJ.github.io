@@ -6,11 +6,11 @@ tags:
   - Guide
 seo:
   image:
-    src: '/balonmano.jpg'
+    src: 'balonmano.jpg'
     alt: Portero de España
 ---
 
-![Portero de España](/balonmano.jpg)
+![Portero de España](balonmano.jpg)
 
 **Note:** This photo was taken by El Confidencial
 
